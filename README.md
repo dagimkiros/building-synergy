@@ -29,9 +29,9 @@ The following are examples of possible synergies:
 
 ### Offices that provide a public service
 
--
--
--
+-Water company
+-Electric company
+-Cleaners
 
 ### Offices for support of other offices
 
