@@ -35,14 +35,14 @@ The following are examples of possible synergies:
 
 ### Offices for support of other offices
 
--
--
--
+
 
 ### Both/in-between
 
--
--
+
+-business mergers
+-creating compatibale product 
+-deciplinary work groups 
 
 ### Other tenants?
 
